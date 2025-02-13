@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: "Developer's Guide",
   tagline: "A comprehensive guide for developers who want to build a startup",
-  url: "/",
+  url: 'https://example.com',
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
